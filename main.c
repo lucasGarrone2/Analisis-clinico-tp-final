@@ -62,6 +62,7 @@ int main()
 
     rol= InicioDeSesion(user, pass);
 
+    int numero=10;
 
     return 0;
 }
