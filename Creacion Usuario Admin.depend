@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1697896036 source:c:\users\gatur\onedrive\escritorio\trabajo final labo 2 analisis clinico\creacion usuario admin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"InicioSesion.h"
+
+1697861197 source:c:\users\gatur\onedrive\escritorio\trabajo final labo 2 analisis clinico\creacion usuario admin\iniciosesionc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"InicioSesion.h"
+
+1697896036 c:\users\gatur\onedrive\escritorio\trabajo final labo 2 analisis clinico\creacion usuario admin\iniciosesion.h
+
