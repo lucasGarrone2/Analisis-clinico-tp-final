@@ -28,7 +28,7 @@ int main()
         barraPunteada();
     }
     sonidoExito();
-    ///Validacion para ingresar bien la contraseña
+    ///Validacion para ingresar bien la contraseÃ±a
 
     printf("\t\t\t\t\t\t\tPassword: ");
     gets(pass);
@@ -62,7 +62,7 @@ int main()
 
     rol= InicioDeSesion(user, pass);
 
-    int numero=10;
+    
 
     return 0;
 }
